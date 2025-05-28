@@ -6,7 +6,7 @@ Please checkout the latest [blog](https://developers.redhat.com/articles/2025/05
 
 ## Demo
 
-<video src="doc/MIGAdapter-demo-with-comments.mp4" width="640" height="480" controls></video>
+<iframe src="doc/MIGAdapter-demo-with-comments.mp4" frameborder="0" allowfullscreen="true"></iframe>
 
 repartition free GPU
 
