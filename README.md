@@ -2,6 +2,16 @@
 
 a tool to automatically adjust kubernetes pod resource requests/limits based on available nvidia MIG instances
 
+Please checkout the latest [blog](https://developers.redhat.com/articles/2025/05/27/boost-gpu-efficiency-kubernetes-nvidia-mig) from [series](https://developer.ibm.com/series/gpu-mig/)
+
+## Demo
+
+<video src="doc/MIGAdapter-demo-with-comments.mp4" width="640" height="480" controls></video>
+
+repartition free GPU
+
+<video src="doc/MIGAdapter-demo-repartition-with-comments.mp4" width="640" height="480" controls></video>
+
 ## Overview
 
 Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications. Kubernetes provides access to special hardware such as GPUs, NICs through the device plugin framework. 
